@@ -54,7 +54,7 @@ reporte de bugs, com participação ativa em sprints e entregas orientadas por m
 ### 📂 Meus Projetos em Destaque
 
 * 🧪 **[Teste E2E Saucedemo](https://github.com/AdrianoSilva130/Teste-e2e-Saucedemo)**: Automação de testes End-to-End utilizando **Playwright e TypeScript**, validando fluxos críticos de e-commerce.
-* ⚡ **[Exercício de Teste de Performance](https://github.com/AdrianoSilva130/exercicio-teste-de-performance)**: Projeto prático de testes não funcionais com **Apache JMeter e Java**, avaliando estabilidade, throughput e tempo de resposta sob carga.
+* ⚡ **[Exercício de Teste de Performance](https://github.com/AdrianoSilva130/exercicio-teste-de-performance)**: Projeto prático de testes não funcionais com **Apache JMeter**, avaliando estabilidade, throughput e tempo de resposta sob carga.
 * 🌐 **[Automação Web E2E (EBAC)](https://github.com/AdrianoSilva130/teste-e2e-ebac)**: Projeto desenvolvido com **Cypress** focado na validação de fluxos de navegação e interface web.
 * 📋 **[Relatório EBAC](https://github.com/AdrianoSilva130/RelatorioEBAC)**: Documentação, estratégia de testes e gestão de defeitos.
 
